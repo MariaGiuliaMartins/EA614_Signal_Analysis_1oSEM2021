@@ -1,2 +1,5 @@
-# EA614_Signal_Analysis_1oSEM2021
+# EA614 - Análise de Sinais
 College course of signal analysis
+
+
+Carried out in 1st semester of 2021
