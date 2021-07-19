@@ -1,4 +1,4 @@
-# EA614 - Análise de Sinais
+# EA614 - Signal Analysis
 College course of signal analysis
 
 
